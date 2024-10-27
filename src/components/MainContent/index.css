@@ -1,0 +1,22 @@
+
+
+.container1{
+    background-image: url("https://wallpapers.com/downloads/high/happy-family-pictures-t01hzw0xgw8gjxt5.webp");
+    background-size: cover;
+    height: 80vh;
+    width: 99vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    padding-top: 150px;
+    
+}
+
+.button4{
+    background-color: transparent;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 3px;
+    margin: 5px;
+}

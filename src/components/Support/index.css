@@ -1,0 +1,153 @@
+/* Reset and Basic Styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .support-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f8ff;
+    padding: 20px;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+    padding: 10px 20px;
+    background-color: #e5f3ff;
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-icon {
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+  }
+  
+  .logo-text {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .login-buttons {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .btn {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .website-login-btn {
+    background-color: #56c3f3;
+    color: white;
+  }
+  
+  .login-btn {
+    background-color: #50c3f1;
+    color: white;
+  }
+  
+  .signup-btn {
+    background-color: #ff6b35;
+    color: white;
+  }
+  
+  .language-dropdown {
+    background-color: #f0f8ff;
+    border: none;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .search-section {
+    background-color: #ff6b35;
+    padding: 40px;
+    text-align: center;
+    width: 100%;
+    max-width: 1200px;
+    margin-top: 20px;
+    color: white;
+  }
+  
+  .support-heading {
+    font-size: 28px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  .search-input {
+    width: 60%;
+    padding: 12px 20px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+  
+  .ticket-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .new-ticket-btn {
+    background-color: #ff6b35;
+    color: white;
+  }
+  
+  .check-ticket-btn {
+    background-color: #ff6b35;
+    color: white;
+  }
+  
+  .info-banner {
+    background-color: #0a2940;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+    width: 100%;
+    max-width: 1200px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .banner-heading {
+    color: #ff6b35;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .banner-text {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .learn-more-btn {
+    background-color: #ff6b35;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  

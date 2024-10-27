@@ -1,0 +1,58 @@
+/* Container styling */
+.about-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #000; /* Background color for the left section */
+    color: #fff; /* White text */
+  }
+  
+  .about-text {
+    max-width: 50%;
+  }
+  
+  .about-image img {
+    width: 400px;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  /* Title and description styling */
+  .about-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 0;
+    line-height: 1.2;
+  }
+  
+  .about-description {
+    font-size: 1.1em;
+    line-height: 1.6;
+  }
+  
+  .about-tagline {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  /* Main message styling */
+  .about-main-message {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .about-main-message h2 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .about-message {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.1em;
+    line-height: 1.6;
+  }

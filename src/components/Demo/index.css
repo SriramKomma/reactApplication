@@ -1,0 +1,29 @@
+
+
+.demo-content{
+    background-color: lightgrey;
+    text-align: center;
+    padding: 8px;
+    background-size: cover;
+    font-family: "Roboto";
+    border-radius: 10px;
+    height: 190px;
+    margin: 10px;
+}
+
+.button3{
+    background-color: orange;
+    color: #ffffff;
+    border-radius: 3px;
+    border-width: 0px;
+    font-family: "Roboto";
+    padding: 5px;
+}
+
+.free{
+    font-style: italic;
+}
+
+.some{
+    padding: 10px;
+}
