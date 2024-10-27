@@ -4,12 +4,7 @@
 
 This is a React application designed to [briefly describe the purpose of your app, e.g., "track cryptocurrency prices" or "manage tasks"]. It utilizes modern web technologies to provide a seamless user experience.
 
-## Features
 
-- **Feature 1**: Brief description of the feature.
-- **Feature 2**: Brief description of the feature.
-- **Feature 3**: Brief description of the feature.
-- **Feature 4**: Brief description of the feature.
 
 ## Technologies Used
 
